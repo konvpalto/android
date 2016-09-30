@@ -6,6 +6,9 @@
   <!-- Include forked AOSP -->
   <include name="omni-aosp.xml" />
 
+  <!-- Stuff for BlackView BV6000 -->
+  <include name="bv6k.xml" />
+
   <!-- OmniROM Projects -->
   <project path="android" name="android" remote="omnirom" revision="android-7.0" />
 

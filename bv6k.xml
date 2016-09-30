@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+  <remote  name="konvpalto"
+           fetch="https://github.com/konvpalto" />
+
+  <project path="kernel/blackview/bv6k" name="android-blackview-bv6000-kernel" remote="konvpalto" revision="master" />
+
+</manifest>
